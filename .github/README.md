@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC 3.0 ❤️</b></h1>
+<h1 align="center"><b>❤️ OPXVIRMUSIC ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">OPXVIRMUSIC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...POWERD BY ROCKS 🔥</h4>
 
 <p align="center"><a href="https://t.me/ITZVIR99"><img src="https://telegra.ph/file/36d96a22706b8f54afdd3.jpg" width="400"></a></p>
 
