@@ -129,47 +129,47 @@ __**New Global Ban on {MUSIC_BOT_NAME}**__
             return
 
           
-@app.on_message(filters.command(UNGBAN_COMMAND) & SUDOERS)
-@language
-async def gungabn(client, message: Message, _):
+@app.on_message(filters.command("ungban") & SUDOERS)
+async def unban_globally(_, message):
     if not message.reply_to_message:
         if len(message.command) != 2:
-            return await message.reply_text(_["general_1"])
+            await message.reply_text(
+                "**Usage:**\n/ungban [USERNAME | USER_ID]"
+            )
+            return
         user = message.text.split(None, 1)[1]
+        if "@" in user:
+            user = user.replace("@", "")
         user = await app.get_users(user)
-        user_id = user.id
-        mention = user.mention
+        from_user = message.from_user
+        sudoers = await get_sudoers()
+        if user.id == from_user.id:
+            await message.reply_text("You want to unblock yourself?")
+        elif user.id in sudoers:
+            await message.reply_text("Sudo users can't be blocked/unblocked.")
+        else:
+            is_gbanned = await is_gbanned_user(user.id)
+            if not is_gbanned:
+                await message.reply_text("He's already free, why bully him?")
+            else:
+                await remove_gban_user(user.id)
+                await message.reply_text(f"Ungbanned!")
+        return
+    from_user_id = message.from_user.id
+    user_id = message.reply_to_message.from_user.id
+    mention = message.reply_to_message.from_user.mention
+    sudoers = await get_sudoers()
+    if user_id == from_user_id:
+        await message.reply_text("You want to unblock yourself?")
+    elif user_id in sudoers:
+        await message.reply_text("Sudo users can't be blocked/unblocked.")
     else:
-        user_id = message.reply_to_message.from_user.id
-        mention = message.reply_to_message.from_user.mention
-    is_gbanned = await is_banned_user(user_id)
-    if not is_gbanned:
-        return await message.reply_text(_["gban_7"].format(mention))
-    if user_id in BANNED_USERS:
-        BANNED_USERS.remove(user_id)
-    served_chats = []
-    chats = await get_served_chats()
-    for chat in chats:
-        served_chats.append(int(chat["chat_id"]))
-    time_expected = len(served_chats)
-    time_expected = get_readable_time(time_expected)
-    mystic = await message.reply_text(
-        _["gban_8"].format(mention, time_expected)
-    )
-    number_of_chats = 0
-    for chat_id in served_chats:
-        try:
-            await app.unban_chat_member(chat_id, user_id)
-            number_of_chats += 1
-        except FloodWait as e:
-            await asyncio.sleep(int(e.x))
-        except Exception:
-            pass
-    await remove_banned_user(user_id)
-    await message.reply_text(
-        _["gban_9"].format(mention, number_of_chats)
-    )
-    await mystic.delete()
+        is_gbanned = await is_gbanned_user(user_id)
+        if not is_gbanned:
+            await message.reply_text("He's already free, why bully him?")
+        else:
+            await remove_gban_user(user_id)
+            await message.reply_text(f"Ungbanned!")
 
 
 
