@@ -5,9 +5,9 @@
 <p align="center"><a href="https://t.me/ITZVIR99"><img src="https://telegra.ph/file/36d96a22706b8f54afdd3.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://app.codacy.com/manual/VIR99/OPXVIRMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/VIR99/OPXVIRMUSIC"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/VIR99/OPVIRMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/VIR99/OPXVIRMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/jankarikiduniya/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/jankarikiduniya/AlexaMusic/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
