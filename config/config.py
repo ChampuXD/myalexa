@@ -126,26 +126,26 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/654ddaf472f18b799600b.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/9912be7bdd20a99c2bf23.png")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "assets/Ping.jpeg",
+    "https://telegra.ph/file/90c8f13214e4a9ca49734.png",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "assets/Playlist.jpeg",
+    "https://telegra.ph/file/20e778031b8fa23aee937.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "assets/Global.jpeg",
+    "https://telegra.ph/file/d01626ee9230bf0c3cbf3.png",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "assets/Stats.jpeg",
+    "https://telegra.ph/file/d01626ee9230bf0c3cbf3.png",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
