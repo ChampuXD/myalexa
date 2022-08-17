@@ -94,11 +94,11 @@ async def gen_thumb(videoid):
         para = textwrap.wrap(title, width=32)
         j = 0
         draw.text(
-            (6, 6), f"Powered By:- © ALEXA & ® ROCKS", fill="Yellow", font=name_font
+            (6, 6), f"Powered By:- © OPXVIRMUSIC & ® ROCKS", fill="Yellow", font=name_font
         )
         draw.text(
             (600, 150),
-            f"By Alexa",
+            f"By OPXVIRMUSIC",
             fill="yellow",
             stroke_width=2,
             stroke_fill="green",
@@ -144,7 +144,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 550),
-            f"Owner : Dr Asad Ali",
+            f"Owner : Innocent Vir",
             fill="white",
             stroke_width=1,
             stroke_fill="white",
