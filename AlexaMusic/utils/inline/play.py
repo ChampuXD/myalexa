@@ -114,7 +114,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/Jankari_Ki_Duniya")
+                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/ITZVIR99")
         ],
         [
             InlineKeyboardButton(
