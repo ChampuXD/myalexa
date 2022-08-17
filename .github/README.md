@@ -33,7 +33,7 @@
 - Keyboard selection support for youtube play
 - Lyrics Scrapper
 - Unlimited Queue
-- Broadcast by Bot
+- Broadcast Bot
 - Statistic Collector
 - Block / Unblock (restrict user for using your bot)
 
