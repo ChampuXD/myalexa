@@ -40,7 +40,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "2116857965 ").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
