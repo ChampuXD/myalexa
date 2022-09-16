@@ -58,10 +58,10 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", ""
+    "SUPPORT_CHANNEL", "https://t.me/iTzMeh_Sam"
 )
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", ""
+    "SUPPORT_GROUP", "https://t.me/iTzMeh_Sam"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -108,7 +108,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "BQB4z5pIDi2KhRt1n1gpXh5vWFCspBoj7yOQANHdf67nOQtk4ezwU6Y4Ku2cs8kwoXNDc-uLuy89SuMJa_N21eXIbwJfirHI0UkPqb3SpiJoxgp8rHa12wl7M0CQ7Lu79Hrbj58Yoe0WPwPfANpWW571BFIn3AFdTkXRE9-B0SzLQJrjCopkyqcJI-l7c749_pmPpUU_Aq1-_VDls4hCi4dl-OhLUkL2R5rI50vluLMHcRW8I0viB0e0yTKSQnyJ049bZUD6iLZzMGEsGrDerHTtqP7zJfz5gQ2OfWMPfKHMsmXX1lkvYxmjZTMfcdWxmQroiJmagxLhtSqgWSQqEAcbAAAAATnUcLAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -126,26 +126,26 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/9912be7bdd20a99c2bf23.png")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/173fcda1248e57393c78a.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/90c8f13214e4a9ca49734.png",
+    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/20e778031b8fa23aee937.jpg",
+    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph/file/d01626ee9230bf0c3cbf3.png",
+    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/d01626ee9230bf0c3cbf3.png",
+    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
