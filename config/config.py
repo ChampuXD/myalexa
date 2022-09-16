@@ -23,9 +23,9 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "10298520"))
 API_HASH = getenv("API_HASH","be61493af3c50ce4dbf2a0da20b37926")
 
-BOT_TOKEN = getenv("BOT_TOKEN","")
+BOT_TOKEN = getenv("BOT_TOKEN","5789315672:AAGu1K31Jyc5bbL6tqsERJGUUmh2lK4yJlU")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://chatbitsam:chatbitsam@cluster0.xltwzug.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(
     getenv("DURATION_LIMIT", "900")
@@ -35,12 +35,12 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001586649509"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME"," 𓆩𝐒ᴀᴍ 𝐎ᴘ𓆪 ✘ 𓆩𝐌ᴜsɪᴄ𓆪 ")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "2116857965 ").split())
+    map(int, getenv("OWNER_ID", "5169482743").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
