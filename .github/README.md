@@ -131,8 +131,8 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [SAM](https://t.me/ITZVIR99) 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
+- [SAM](https://t.me/iTzSam_OP) 
+- [SAM](https://t.me/Dr_Asad_Ali)
 - [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
 - [Abhimanyu](https://t.me/Itz_Venom_xD)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
