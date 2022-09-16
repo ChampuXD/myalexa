@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ OPXVIRMUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ SAMxMUSIC ❤️</b></h1>
 
-<h4 align="center">OPXVIRMUSIC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...POWERD BY ROCKS 🔥</h4>
+<h4 align="center">SAMxMUSIC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...POWERED BY @iTzSam_OP 🔥</h4>
 
-<p align="center"><a href="https://t.me/ITZVIR99"><img src="https://telegra.ph/file/36d96a22706b8f54afdd3.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/iTzSam_OP"><img src="https://telegra.ph/file/36d96a22706b8f54afdd3.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/VIR99/OPXVIRMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy"/></a>
