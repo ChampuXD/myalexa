@@ -8,7 +8,7 @@
     <a href="https://app.codacy.com/manual/swayamop15/SAMxMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy"/></a>
     <a href="https://github.com/swayamop15/SAMxMUSIC"> <img src="https://img.shields.io/github/repo-size/swayamop15/SAMxMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/swayamop15/SAMxMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/swayamop15/SAMxMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/swayamop15/OPXVIRMUSIC/issues"> <img src="https://img.shields.io/github/issues/VIR99/OPXVIRMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/swayamop15/SAMxMUSIC/issues"> <img src="https://img.shields.io/github/issues/swayamop15/SAMxMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/VIR99/OPXVIRMUSIC/network/members"> <img src="https://img.shields.io/github/forks/VIR99/OPXVIRMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
