@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://app.codacy.com/manual/swayamop15/SAMXMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy"/></a>
     <a href="https://github.com/swayamop15/SAMXMUSIC"> <img src="https://img.shields.io/github/repo-size/swayamop15/SAMXMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/swayamop15/SAMXMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/swayamop15/SAMxMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/swayamop15/SAMXMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/swayamop15/SAMXMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/swayamop15/SAMXMUSIC/issues"> <img src="https://img.shields.io/github/issues/swayamop15/SAMXMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/swayamop15/SAMXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/swayamop15/SAMXMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -131,7 +131,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [𝐕ɪʀ](https://t.me/ITZVIR99) 
+- [SAM](https://t.me/ITZVIR99) 
 - [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
 - [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
 - [Abhimanyu](https://t.me/Itz_Venom_xD)
