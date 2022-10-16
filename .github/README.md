@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ SAMxMUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 ❤️</b></h1>
 
-<h4 align="center">SAMxMUSIC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...POWERED BY @iTzSam_OP 🔥</h4>
+<h4 align="center">𝕮𝖗𝖚𝖊𝖑𝖑𝖆(◍•ᴗ•◍)✧* A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...POWERED BY @iTzSam_OP 🔥</h4>
 
 <p align="center"><a href="https://t.me/iTzSam_OP"><img src="https://te.legra.ph/file/1155fb0f6b28b907b4b77.jpg" width="400"></a></p>
 
