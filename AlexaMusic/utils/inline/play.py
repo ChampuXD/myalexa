@@ -48,7 +48,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/iTzSam_OP")
+                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/Shivanshudeo")
         ],
         [
             InlineKeyboardButton(
@@ -56,7 +56,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/Alexa_Help")
+                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/movieslinks00")
         ],
     ]
     return buttons
@@ -89,7 +89,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/iTzSam_OP")
+                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/ShivanshuDeo")
         ],
         [
             InlineKeyboardButton(
@@ -97,7 +97,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/Alexa_Help")
+                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/movieslinks00")
         ],
     ]
     return buttons
@@ -114,7 +114,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/iTzSam_OP")
+                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/ShivanshuDeo")
         ],
         [
             InlineKeyboardButton(
@@ -122,7 +122,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/Alexa_Help")
+                text="𓆩☞︎︎︎ ᴄʜᴀᴛ ☜︎︎︎️𓆪", url=f"https://t.me/Movieslinks00")
         ],
     ]
     return buttons
