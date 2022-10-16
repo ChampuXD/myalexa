@@ -28,11 +28,11 @@ BOT_TOKEN = getenv("BOT_TOKEN","")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 DURATION_LIMIT_MIN = int(
-    getenv("DURATION_LIMIT", "900")
+    getenv("DURATION_LIMIT", "9000000000000")
 )
 
 SONG_DOWNLOAD_DURATION = int(
-    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
+    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "1800000000000")
 )
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
@@ -51,17 +51,17 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME","")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/swayamop15/SAMXMUSIC",
+    "https://github.com/TheTeamAlexa/AlexaMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/iTzMeh_Sam"
+    "SUPPORT_CHANNEL", "https://t.me/Movieslinks00"
 )
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/iTzMeh_Sam"
+    "SUPPORT_GROUP", "https://t.me/YourBest_Friends"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -100,11 +100,11 @@ CLEANMODE_DELETE_MINS = int(
 )
 
 TG_AUDIO_FILESIZE_LIMIT = int(
-    getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600")
+    getenv("TG_AUDIO_FILESIZE_LIMIT", "1048576000000")
 )
 
 TG_VIDEO_FILESIZE_LIMIT = int(
-    getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824")
+    getenv("TG_VIDEO_FILESIZE_LIMIT", "10737418240000")
 )
 # https://www.gbmb.org/mb-to-bytes
 
@@ -126,26 +126,26 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/173fcda1248e57393c78a.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/34857b71edabf0009f5e2.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
+    "https://te.legra.ph/file/2fd82ce7913060b33a32f.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
+    "https://te.legra.ph/file/d3ac894cf39f5f79b3855.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
+    "https://te.legra.ph/file/2fd82ce7913060b33a32f.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/173fcda1248e57393c78a.jpg",
+    "https://te.legra.ph/file/c789a55cf1e6bb706aa36.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
